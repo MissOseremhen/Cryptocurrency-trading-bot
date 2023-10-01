@@ -1024,9 +1024,3 @@ def market_depth(sym, num_entries=20):
 """
 if __name__ == "__main__":
     run()
-
-
-"""
-NOTE: All Subsequent Version of Program must contain this message, unmodified, in it's entirety
-Copyright (c) 2018 by Joaquin Roibal
-"""
